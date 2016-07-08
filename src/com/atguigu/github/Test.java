@@ -9,5 +9,8 @@ public class Test {
 		
 		System.out.println("haha");
 		System.out.println("hh");
+		System.out.println("xiangganjiuxing");
+		System.out.println("xiangganjiuxing");
+		System.out.println("xiangganjiuxing");
 	}
 }
